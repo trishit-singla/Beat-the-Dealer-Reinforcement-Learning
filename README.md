@@ -47,3 +47,68 @@ You have ⬇ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
 
 <br>
 <br>
+
+***Soft Totals***
+
+
+You have ⬇ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
+:--------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:
+19|S|S|S|S|S|S|S|**S**|**S**|S
+18|**S**|**S**|**S**|**S**|**S**|**S**|**S**|D|D|**S**
+
+</center>
+
+#### **Double**
+
+<center>
+<br>
+
+***Hard Totals***
+
+You have ⬇ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
+:--------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:
+11|Y|Y|Y|Y|Y|Y|Y|Y|**Y**|**Y**
+10|Y|Y|Y|Y|Y|**Y**|**Y**|**Y**|N|N
+9|**Y**|**Y**|**Y**|**Y**|**Y**|N|N|N|N|N
+8|N|N|N|*|*|N|N|N|N|N
+
+<font size="2">
+ `*` ➡ Double down except with (6,2)
+ </font>
+ <br>
+ <br>
+
+ ***Soft Totals***
+
+ You have ⬇ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
+:--------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:
+A,7|N|Y|Y|Y|Y|N|N|N|N|N
+A,6|Y|Y|Y|Y|Y|N|N|N|N|N
+A,5|N|N|Y|Y|Y|N|N|N|N|N
+A,4|N|N|Y|Y|Y|N|N|N|N|N
+A,3|N|N|Y|Y|Y|N|N|N|N|N
+A,2|N|N|Y|Y|Y|N|N|N|N|N
+A,A*|N|N|N|Y|Y|N|N|N|N|N
+
+<font size="2">
+`*`➡ Double down with (A,A) only if splitting isn't allowed.</center>
+</font>
+
+#### **Pair Splitting**
+
+<center>
+
+You have ⬇ | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11
+:--------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:--:|:--:
+A,A|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y
+10,10|N|N|N|N|N|N|N|N|N|N
+9,9|Y|Y|Y|Y|Y|N|Y|Y|N|N
+8,8|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y
+7,7|Y|Y|Y|Y|Y|Y|Y|N|N|N
+6,6|Y|Y|Y|Y|Y|Y|N|N|N|N
+5,5|N|N|N|N|N|N|N|N|N|N
+4,4|N|N|N|Y|N|N|N|N|N|N
+3,3|Y|Y|Y|Y|Y|Y|N|N|N|N
+2,2|Y|Y|Y|Y|Y|Y|N|N|N|N
+
+</center>
